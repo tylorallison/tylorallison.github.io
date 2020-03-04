@@ -12,7 +12,7 @@ permalink: "/about/"
 <div class="row">
     <div class="small-5 columns">
         <div class="card text-center">
-            <img class=center src="{{ site.urlimg |absolute_url }}avatar.png" width="50%">
+            <img src="{{ site.urlimg |absolute_url }}avatar.png" width="50%" class="center">
             <h1 class="card-title">{{ site.title }}</h1>
             <p> My Journey to GameDev</p>
             <ul class="social-icons" style="list-style-type:none;">
