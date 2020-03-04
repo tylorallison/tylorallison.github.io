@@ -1,0 +1,31 @@
+location:                   Minnesota
+bio:                        "20 yrs of software dev xp | network+application security | aspiring #gamedev | goofy dad | serious love affair with wife of 20 yrs"
+
+show_work:                  true
+work:
+    -   name:               Sony Playstation
+        logo:               logo-sony.png
+        url:                https://www.sie.com/en/index.html
+        description:        Security Architecture
+    -   name:               Intel Security
+        logo:               logo-intel.png
+        url:                https://intel.com
+        description:        Network Firewall Developer
+    -   name:               Secure Computing
+        logo:               logo-scc.png
+        url:                https://en.wikipedia.org/wiki/Secure_Computing_Corporation
+        description:        Network Firewall Developer
+
+show_education:             true
+education:
+    -   name:               University of Minnesota - Duluth
+        logo:               logo-umd.png
+        url:                https://www.d.umn.edu
+        description:        Computer Science
+
+show_projects:              true
+projects:
+    -   name:               HomeTeam GameDev Member
+        logo:               logo-hometeam.png
+        description:        Make Better Games Together
+        url:                https://hometeamgamedev.com

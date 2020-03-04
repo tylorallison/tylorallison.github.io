@@ -1,0 +1,26 @@
+- title: tylog
+  url: "/"
+  side: left
+
+- title: Blog
+  url: "/blog/"
+  side: left
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: Games
+  url: "/games/"
+  side: left
+
+- title: Gallery
+  url: "/gallery/"
+  side: left
+
+- title: "About Me"
+  url: "/about/"
+  side: right
+
+- title: "Search"
+  url: "/search/"
+  side: right

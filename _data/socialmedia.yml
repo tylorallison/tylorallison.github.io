@@ -1,0 +1,14 @@
+- name: GitHub
+  url: http://github.com/tylorallison
+  class: icon-github
+  title: "Github"
+
+- name: Twitter
+  url: http://twitter.com/TyAllison
+  class: icon-twitter
+  title: "Twitter"
+
+- name: LinkedIn
+  url: http://linkedin.com/in/tylor-allison
+  class: icon-linkedin
+  title: "LinkedIn"
