@@ -5,6 +5,8 @@ header:
 title: "Photos from Unsplash"
 permalink: "/thanks/"
 gallery:
+    - image_url: hdr-tiles.jpg
+      caption: Photo by Andrew Ridley on Unsplash
     - image_url: hdr-cave.jpg
       caption: Photo by Michael Behrens on Unsplash
     - image_url: hdr-mountains.jpg

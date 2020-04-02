@@ -7,6 +7,10 @@ subheadline: ""
 teaser: ""
 permalink: "/gallery/"
 gallery:
+    - image_url: sss-lvleditor.png
+      caption: screenshotsaturday WIP Level Editor
+    - image_url: sss-bonfire.gif
+      caption: screenshotsaturday Bonfire
     - image_url: game-singed_title.png
       caption: Singed Dirt Title Page
     - image_url: game-singed_play.gif
