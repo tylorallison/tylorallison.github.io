@@ -7,6 +7,10 @@ subheadline: ""
 teaser: ""
 permalink: "/gallery/"
 gallery:
+    - image_url: sss-inside_castle.png
+      caption: screenshotsaturday Castle Interior
+    - image_url: sss-wip_castle.png
+      caption: screenshotsaturday WIP Castle
     - image_url: sss-lvleditor.png
       caption: screenshotsaturday WIP Level Editor
     - image_url: sss-bonfire.gif
