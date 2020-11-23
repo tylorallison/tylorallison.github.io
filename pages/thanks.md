@@ -37,6 +37,8 @@ gallery:
       caption: Photo by Carl Raw on Unsplash
     - image_url: hdr-do_something_great.jpg
       caption: Photo by Clark Tibbs on Unsplash
+    - image_url: hdr-grey-tunnel.jpg
+      caption: Photo by Anny Gru on Unsplash
 
 ---
 
