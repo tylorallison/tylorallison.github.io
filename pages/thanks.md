@@ -39,6 +39,8 @@ gallery:
       caption: Photo by Clark Tibbs on Unsplash
     - image_url: hdr-grey-tunnel.jpg
       caption: Photo by Anny Gru on Unsplash
+    - image_url: hdr-colorful_lights.jpg
+      caption: Photo by Atul Vinayak on Unsplash
 
 ---
 
