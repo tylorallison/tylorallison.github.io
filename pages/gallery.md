@@ -7,6 +7,8 @@ subheadline: ""
 teaser: ""
 permalink: "/gallery/"
 gallery:
+    - image_url: sss-witches_lr_scene.png
+      caption: screenshotsaturday Witches and Guns Living Room Art
     - image_url: sss-inside_castle.png
       caption: screenshotsaturday Castle Interior
     - image_url: sss-wip_castle.png
