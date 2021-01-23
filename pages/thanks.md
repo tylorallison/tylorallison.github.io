@@ -41,6 +41,8 @@ gallery:
       caption: Photo by Anny Gru on Unsplash
     - image_url: hdr-colorful_lights.jpg
       caption: Photo by Atul Vinayak on Unsplash
+    - image_url: hdr-particles.jpg
+      caption: Photo by Arun Visuals on Unsplash
 
 ---
 
