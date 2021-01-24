@@ -31,7 +31,7 @@ A rogue-like adventure cyber adventure set inside your computer.  Help "Glitch" 
 
 ### My Contribution
 
-Continued my build out my experience with Javascript games.  First time building/working with a particle system in JS.  First time building out a procedural wall and tile system.
+Continued to build out my experience with Javascript games.  First time building/working with a particle system in JS.  First time building out a procedural wall and tile system.
 
 Particle systems (glitch, trace, scan, portal, spawn, missile, color, spark, repair, wait, hex spin,
 lightning jump, fade, explosion swirl, blip edge pathing), procedural tile selection and wall generation, FX randomization,

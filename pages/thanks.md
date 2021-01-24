@@ -43,6 +43,8 @@ gallery:
       caption: Photo by Atul Vinayak on Unsplash
     - image_url: hdr-particles.jpg
       caption: Photo by Arun Visuals on Unsplash
+    - image_url: hdr-witches.jpg
+      caption: Photo by Elena Mozhvilo on Unsplash
 
 ---
 
